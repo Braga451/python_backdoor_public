@@ -1,5 +1,6 @@
 # python_backdoor_public
 ***Aviso¹: software criado meramente para fins educativos acerca de como funciona uma conexão entre duas redes, sobretudo de como funciona um socket de rede.***
+
 Backdoor (reverse shell) programada usando python, através da utilização dos modulos OS, sockets e subprocess.
  **Como o programa funciona:**
   - É aberto um servidor (TCP/IP) na maquina invasora.
